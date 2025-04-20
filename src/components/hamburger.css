@@ -1,0 +1,20 @@
+.menu{
+    width: 40px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+}
+.submenu{
+    width: inherit;
+    height: 10px;
+    background-color: white;
+    border-radius: 10px 0px 10px 0px;
+}
+.submenu1{
+    width: 30px;
+}
+.submenu3{
+    width: 20px;
+}
